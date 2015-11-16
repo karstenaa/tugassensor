@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Tugas Sensor</string>
+    <string name="title1">Accelerometer</string>
+    <string name="title2">Gyroscope</string>
+    <string name="title3">Light Sensor</string>
+    <string name="title4">List Sensor</string>
+</resources>
