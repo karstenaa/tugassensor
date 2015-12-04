@@ -14,7 +14,7 @@
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
         android:textAppearance="?android:attr/textAppearanceLarge"
-        android:text="Large Text"
+        android:text="Silahkan Bergerak"
         android:id="@+id/textView7"
         android:layout_alignParentTop="true"
         android:layout_marginTop="81dp"
